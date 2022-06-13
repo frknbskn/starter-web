@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Furkan BAÞKAN  furkan@git.training @frknbskn_
 
 # THANKS
 
